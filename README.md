@@ -1,6 +1,6 @@
-#Data Project
+Data Project
 
-#Problem Definition
+Problem Definition
 
 I am going to be looking at the relationship between economic inequality and multiple social progress indicators. This is an interesting topic for me because I am not only a Statistics major however an Economics one as well. I have seen lots of information and comparisons between GDP and social progress however not as many for economic inequality. You hear talk of how Nordic countries with lower inequality have higher standards of living and so I want to put that to the test. I also want to see if there are diminishing or even negative returns to decreasing economic inequality when it comes to social progress or if hypothetically a fully equal nation would have the highest social progress. Finally, I want to compare all finding between Income and Wealth inequality to see if there is a noticeable difference.
 Datasets
@@ -15,11 +15,11 @@ Motivation
 I think these datasets are unique and will be valuable to explore because they are all indexes, so we can come up with generalized theories. If we used more concrete data, then the extrapolated meaning would be very data specific. For example, if instead of social progress, I looked only at how many high schools a country has compared to Gini Index, we would find one correlation or another but wouldn’t help in answering my general question of economic inequality vs social progress very much. Because it looks at hundreds of these statistics and aggregates them together, I can find greater meaning in my results.
 A big benefit of working with data from countries is that they all share a same attribute being that country’s name. This allows me to compare data from a wide range of topics if the data is country specific.
 
-#Conclusion
+Conclusion
 
 To see if there is a relationship between social progress and economic inequality. Social progress being looked at in individual categories and as an overall index. Economic inequality being looked from Gini Scores for both income and wealth.
 
-#References
+References
 
 Link to Social Progress dataset: https://secure.qgiv.com/for/datdow
 Link to Income Gini dataset: https://data.worldbank.org/indicator/SI.POV.GINI
